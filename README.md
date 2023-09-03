@@ -1,0 +1,11 @@
+# catchMe Assignment
+- Create a div in html file.
+- Style the div with the help of css.
+- Give some height and width to the div and background color also.
+- In the javascript file we can add the event listner to the div tag.
+- Then in the first parameter of the event listner we can write name of the event and in the second parameter write the callback function.
+- First we give position to the div.
+- Then with the help of Math object we can move the div.
+- In Math object we can use floor and random method.
+- We can generate the random values and give to the top and left.
+- So, if we hover on the div the div move random directions.
